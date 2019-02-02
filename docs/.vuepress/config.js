@@ -14,6 +14,7 @@ module.exports = {
         children: [
           [ '/strategy/3c', '1.1. 3C' ],
           [ '/strategy/3m', '1.2. 3M' ],
+          [ '/strategy/5f', '1.3. 5F' ],
         ]
       },
       {
