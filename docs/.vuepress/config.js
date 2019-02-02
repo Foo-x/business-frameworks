@@ -8,6 +8,7 @@ module.exports = {
       {
         title   : '1. 戦略立案',
         children: [
+          [ '/strategy/3c', '1.1. 3C' ]
         ]
       },
       {
