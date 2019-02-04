@@ -3,7 +3,7 @@ module.exports = {
   title: 'ビジネス・フレームワーク',
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' } ],
-    ['link', { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '180x180' } ],
+    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' } ],
   ],
   serviceWorker: true,
   themeConfig: {
