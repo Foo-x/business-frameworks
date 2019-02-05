@@ -17,7 +17,8 @@ module.exports = {
           [ '/strategy/5f', '1.3. 5F' ],
           [ '/strategy/7s', '1.4. 7S' ],
           [ '/strategy/pest', '1.5. PEST' ],
-          [ '/strategy/risk-map', '1.6. リスクマップ' ],
+          [ '/strategy/ppm', '1.6. PPM' ],
+          [ '/strategy/risk-map', '1.7. リスクマップ' ],
         ]
       },
       {
