@@ -27,6 +27,7 @@ module.exports = {
       {
         title   : '3. 組織開発',
         children: [
+          [ '/management/vspro', '3.1. VSPRO' ],
         ]
       },
       {
