@@ -6,7 +6,16 @@ module.exports = {
     ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' } ],
   ],
   plugins: [
-    '@vuepress/pwa'
+    [
+      '@vuepress/pwa',
+      {
+        serviceWorker: true,
+        updatePopup: {
+          message   : "新しいコンテンツが追加されました。",
+          buttonText: "更新",
+        },
+      },
+    ],
   ],
   themeConfig: {
     sidebar: [
@@ -69,15 +78,6 @@ module.exports = {
       },
     ],
     activeHeaderLinks: false,
-    plugins          : {
-      '@vuepress/pwa': {
-        serviceWorker: true,
-        updatePopup: {
-          message   : "新しいコンテンツが追加されました。",
-          buttonText: "更新",
-        },
-      },
-    },
     lastUpdated : true,
   },
 }
