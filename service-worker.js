@@ -21,14 +21,14 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "172f858cbaa10b36e99ad140975a501b"
+    "revision": "ffda950d8832ed5fe24debe967a8f468"
   },
   {
     "url": "apple-touch-icon.png",
     "revision": "db3f70f5f37efe5436e3dd65dae036ff"
   },
   {
-    "url": "assets/css/0.styles.a4639b65.css",
+    "url": "assets/css/0.styles.1880ca74.css",
     "revision": "219e91bd32bc0d4b7aae77c788e15e10"
   },
   {
@@ -36,32 +36,32 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.7567f10c.js",
-    "revision": "8554b734a5a614e02b7ac7ff9e0a865a"
+    "url": "assets/js/10.3b176e77.js",
+    "revision": "c8df182bd5d9b8252b5e512efe883df8"
   },
   {
     "url": "assets/js/11.fe7a78a7.js",
     "revision": "ed7a7b93add4711a5e9ff90622d19581"
   },
   {
-    "url": "assets/js/12.6e01ca11.js",
-    "revision": "643bbbc82fc01933a942c8511d83ed01"
+    "url": "assets/js/12.5337a44f.js",
+    "revision": "70f2449b532bf539c159659a8079942a"
   },
   {
-    "url": "assets/js/13.03979ae0.js",
-    "revision": "965e3cc68ac27c630f194a0305f84860"
+    "url": "assets/js/13.0fcce99f.js",
+    "revision": "07a8d31716ac5e8fc067a796fed3f334"
   },
   {
-    "url": "assets/js/14.b27bc568.js",
-    "revision": "5ef36c63f849c1e04d75147d85353f0b"
+    "url": "assets/js/14.4a2f6859.js",
+    "revision": "af7848ded7c728fb214ceaa13626074f"
   },
   {
-    "url": "assets/js/15.9d56f29c.js",
-    "revision": "2b7dae87a147dc0b2fd97536f77c3822"
+    "url": "assets/js/15.0d3e77a7.js",
+    "revision": "4ddabcf41b203445d673433701b10036"
   },
   {
-    "url": "assets/js/16.1c73cdda.js",
-    "revision": "0077f0b73afb55b66ffd1bf196c7645a"
+    "url": "assets/js/16.2318e28a.js",
+    "revision": "b47ae853f9cc8207a7095fb67e1c2b86"
   },
   {
     "url": "assets/js/17.5b7ff193.js",
@@ -72,36 +72,36 @@ self.__precacheManifest = [
     "revision": "0fcd96023d4d816f69a3b80f989b73cf"
   },
   {
-    "url": "assets/js/3.174d9910.js",
-    "revision": "2be109cc5fcd3fcf9459d7e9dd52f4c0"
+    "url": "assets/js/3.daf90170.js",
+    "revision": "0f95cf9461dac1947b968a253e664bcc"
   },
   {
     "url": "assets/js/4.1a2c7cf5.js",
     "revision": "d86349830cb5b91e96a48c6060269fe5"
   },
   {
-    "url": "assets/js/5.efd90174.js",
-    "revision": "dc6bad3d5cf14920f14721e722c7e920"
+    "url": "assets/js/5.f935aa0b.js",
+    "revision": "b8b4c44b6a3cb5d3c1de63185101c507"
   },
   {
-    "url": "assets/js/6.1d0fbdd9.js",
-    "revision": "08a7cf238b1059fa93a1d19f8dbc1cb4"
+    "url": "assets/js/6.8a60c4f3.js",
+    "revision": "53f05812f0a277c1f1ae5d9a8a2b9d82"
   },
   {
-    "url": "assets/js/7.ad5d5b85.js",
-    "revision": "e2d4d10a3cda5731b60c726aaa6e3dc3"
+    "url": "assets/js/7.b4107722.js",
+    "revision": "5f80c65edebecc64b739c39033865bb4"
   },
   {
-    "url": "assets/js/8.d680cf09.js",
-    "revision": "39e0e0b93850adb3dbbd23c36d82bc9b"
+    "url": "assets/js/8.e6886cd8.js",
+    "revision": "24552b5a244106fdf2d38f2c668edd57"
   },
   {
-    "url": "assets/js/9.9058f827.js",
-    "revision": "ce70a50b3b7b1111bcadb409530dc06f"
+    "url": "assets/js/9.887a2e66.js",
+    "revision": "07ce524bb6b2685425101928b5fefa09"
   },
   {
-    "url": "assets/js/app.400e8718.js",
-    "revision": "16578088e2bd51a03d84431d60d65941"
+    "url": "assets/js/app.96f633e4.js",
+    "revision": "33dc9c4af877635fb72ff4c3c7782981"
   },
   {
     "url": "favicon.png",
@@ -109,31 +109,31 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "63ca3bd2aae0a696c849b0e4517beb27"
+    "revision": "357eeb693ec653b4b1723438d70c4911"
   },
   {
     "url": "management/vspro.html",
-    "revision": "cdbc88e27558b8b966135ceab0686820"
+    "revision": "4afd6997aaf6525d555ef8859dfd07cd"
   },
   {
     "url": "marketing/4c.html",
-    "revision": "676d679cba6284075804b94a1729e305"
+    "revision": "2f479ef2de4a99286a4b5ce1242373a2"
   },
   {
     "url": "marketing/4p.html",
-    "revision": "f6debca90174d539f46a140a3a2cde99"
+    "revision": "8e278ba7ec037f4cf42967da6cbe75a8"
   },
   {
     "url": "strategy/3c.html",
-    "revision": "9e01da020845bf5fb7823a0bfeb1dfca"
+    "revision": "cf53ef3bd5cfe6e6150951b051b4e8e1"
   },
   {
     "url": "strategy/3m.html",
-    "revision": "174bfd2f1eb04414a4a330e2c008af35"
+    "revision": "738722ad3043a56a405fc585a9540d73"
   },
   {
     "url": "strategy/5f.html",
-    "revision": "01e32139609f2286c3ad720f41c0c689"
+    "revision": "baccec146133cdf7e286172efbfbba72"
   },
   {
     "url": "strategy/5f.png",
@@ -141,15 +141,15 @@ self.__precacheManifest = [
   },
   {
     "url": "strategy/7s.html",
-    "revision": "9314d8a80e48b767c47f9973d247c4da"
+    "revision": "9c0d035cb7f6b669ee560e50f24fa33c"
   },
   {
     "url": "strategy/pest.html",
-    "revision": "a6eacf9b96d7ae86f370bea4f9839723"
+    "revision": "ebe39da0ef7ec4c5dfeae245da56c5a9"
   },
   {
     "url": "strategy/ppm.html",
-    "revision": "076bd5fade35e70274671d432c32d2e1"
+    "revision": "6809fee99c055a13d284cb5e34c2bd08"
   },
   {
     "url": "strategy/ppm.png",
@@ -157,7 +157,7 @@ self.__precacheManifest = [
   },
   {
     "url": "strategy/risk-map.html",
-    "revision": "cf1234751f15d261f6794868fb5c8c39"
+    "revision": "e11153879848fd0c7f0ca256319fa5fc"
   },
   {
     "url": "strategy/risk-map.png",
@@ -165,7 +165,7 @@ self.__precacheManifest = [
   },
   {
     "url": "strategy/swot.html",
-    "revision": "d1b4c2d639bca73a758f51e93cb48296"
+    "revision": "ef3a157b215b4de2f673c5cdf4e81f96"
   },
   {
     "url": "strategy/swot.png",
