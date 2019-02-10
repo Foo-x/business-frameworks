@@ -43,7 +43,8 @@ module.exports = {
       {
         title   : '3. 組織開発',
         children: [
-          [ '/management/vspro', '3.1. VSPRO' ],
+          [ '/management/abcde', '3.1. ABCDE理論' ],
+          [ '/management/vspro', '3.2. VSPRO' ],
         ]
       },
       {
