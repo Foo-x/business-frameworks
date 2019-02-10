@@ -25,6 +25,7 @@ module.exports = {
       {
         title   : '2. 市場分析',
         children: [
+          [ '/marketing/4p', '2.1. 4P' ],
         ]
       },
       {
