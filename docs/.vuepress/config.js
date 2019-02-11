@@ -51,6 +51,7 @@ module.exports = {
         title   : '4. 課題解決',
         children: [
           [ '/solution/asis-tobe', '4.1. As is / To be' ],
+          [ '/solution/problem-finding-4p', '4.2. 問題発見の4P' ],
         ]
       },
       {
