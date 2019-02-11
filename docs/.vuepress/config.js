@@ -50,6 +50,7 @@ module.exports = {
       {
         title   : '4. 課題解決',
         children: [
+          [ '/solution/asis-tobe', '4.1. As is / To be' ],
         ]
       },
       {
