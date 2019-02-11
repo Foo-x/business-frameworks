@@ -1,18 +1,18 @@
 module.exports = {
-  base: '/business-frameworks/',
+  base : '/business-frameworks/',
   title: 'ビジネス・フレームワーク',
-  head: [
-    ['link', { rel: 'icon', href: '/favicon.png' } ],
-    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' } ],
+  head : [
+    [ 'link', { rel: 'icon', href: '/favicon.png' } ],
+    [ 'link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' } ],
   ],
   plugins: [
     [
       '@vuepress/pwa',
       {
         serviceWorker: true,
-        updatePopup: {
-          message   : "新しいコンテンツが追加されました。",
-          buttonText: "更新",
+        updatePopup  : {
+          message   : '新しいコンテンツが追加されました。',
+          buttonText: '更新',
         },
       },
     ],
@@ -23,13 +23,13 @@ module.exports = {
       {
         title   : '1. 戦略立案',
         children: [
-          [ '/strategy/3c', '1.1. 3C' ],
-          [ '/strategy/3m', '1.2. 3M' ],
-          [ '/strategy/5f', '1.3. 5F' ],
-          [ '/strategy/7s', '1.4. 7S' ],
-          [ '/strategy/pest', '1.5. PEST' ],
-          [ '/strategy/ppm', '1.6. PPM' ],
-          [ '/strategy/swot', '1.7. SWOT' ],
+          [ '/strategy/3c'      , '1.1. 3C' ],
+          [ '/strategy/3m'      , '1.2. 3M' ],
+          [ '/strategy/5f'      , '1.3. 5F' ],
+          [ '/strategy/7s'      , '1.4. 7S' ],
+          [ '/strategy/pest'    , '1.5. PEST' ],
+          [ '/strategy/ppm'     , '1.6. PPM' ],
+          [ '/strategy/swot'    , '1.7. SWOT' ],
           [ '/strategy/risk-map', '1.8. リスクマップ' ],
         ]
       },
@@ -50,7 +50,7 @@ module.exports = {
       {
         title   : '4. 課題解決',
         children: [
-          [ '/solution/asis-tobe', '4.1. As is / To be' ],
+          [ '/solution/asis-tobe'         , '4.1. As is / To be' ],
           [ '/solution/problem-finding-4p', '4.2. 問題発見の4P' ],
         ]
       },
@@ -81,6 +81,6 @@ module.exports = {
       },
     ],
     activeHeaderLinks: false,
-    lastUpdated : true,
+    lastUpdated      : true,
   },
-}
+};
