@@ -57,6 +57,7 @@ module.exports = {
       {
         title   : '5. 情報収集',
         children: [
+          [ '/collection/color-bath', '5.1. カラーバス効果' ],
         ]
       },
       {
