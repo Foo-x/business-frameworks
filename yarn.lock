@@ -859,12 +859,12 @@
   dependencies:
     nprogress "^0.2.0"
 
-"@vuepress/plugin-pwa@^1.0.0-alpha.0":
-  version "1.0.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa/-/plugin-pwa-1.0.0-alpha.0.tgz#6726f6ae2ec4e30f72f5583d42f6f9c79711180e"
-  integrity sha512-xPaqjsTMTyVZj94J7OavhydY7nhkQk3R6MB7vN57Jd/cj/YGnI7vItjcsWpiqA+94UTMBBRaHe0bN81ju+SQ/g==
+"@vuepress/plugin-pwa@^1.0.0-alpha.39":
+  version "1.0.0-alpha.39"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa/-/plugin-pwa-1.0.0-alpha.39.tgz#3b36bc6d452109b1cd824464b56742d512daa99a"
+  integrity sha512-byTPyjUJ9IE4Nq98AsE1kVnv+1gHhgyeG3c/sYcmoug52QJkqR0I5VkbOSYdi50DkaPH8HpzrDa78+4jbakWOw==
   dependencies:
-    "@vuepress/shared-utils" "^1.0.0-alpha.0"
+    "@vuepress/shared-utils" "^1.0.0-alpha.39"
     register-service-worker "^1.5.2"
     workbox-build "^3.1.0"
 
@@ -879,17 +879,6 @@
   version "1.0.0-alpha.39"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.0.0-alpha.39.tgz#0101bb645866a5c40d669db969cdf7c622c076bf"
   integrity sha512-73eKmLoJSp2wKDpzLEC/+8jSriQQ2TwjtPzDa5LZDIBrWCPXM9g1r7bqDE8iP/nq94N7sl+DbfTpNqjHGkna7A==
-
-"@vuepress/shared-utils@^1.0.0-alpha.0":
-  version "1.0.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/@vuepress/shared-utils/-/shared-utils-1.0.0-alpha.0.tgz#9bc363bfa01c0474f222e8420be53886469a5cf8"
-  integrity sha512-jCuwcNwRki8KHaXxuxlGAPuTzeGvgxgb7lm4qHEYp/1YX+2uYi7S4xGFtjMPfpAj2dFAA2n55tG7xvRebST/Tw==
-  dependencies:
-    chalk "^2.3.2"
-    escape-html "^1.0.3"
-    fs-extra "^5.0.0"
-    globby "^8.0.1"
-    hash-sum "^1.0.2"
 
 "@vuepress/shared-utils@^1.0.0-alpha.39":
   version "1.0.0-alpha.39"
