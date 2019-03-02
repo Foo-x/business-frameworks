@@ -63,6 +63,7 @@ module.exports = {
       {
         title   : '6. 業務改善',
         children: [
+          [ '/improvement/3gen', '6.1. 3現主義' ],
         ]
       },
       {
