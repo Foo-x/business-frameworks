@@ -69,6 +69,7 @@ module.exports = {
       {
         title   : '7. 整理・発想',
         children: [
+          [ '/organization-idea/5w1h', '7.1. 5W1H' ],
         ]
       },
       {
