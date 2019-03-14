@@ -79,6 +79,7 @@ module.exports = {
         title   : '8. 試作・検証',
         children: [
           [ '/trial-test/image-catalog', '8.1. イメージカタログ' ],
+          [ '/trial-test/cover-story', '8.2. カバーストーリー' ],
         ]
       },
       {
