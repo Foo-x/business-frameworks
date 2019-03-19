@@ -86,6 +86,7 @@ module.exports = {
         title   : '9. 評価・決定',
         children: [
           [ '/evaluation-decision/pmi', '9.1. PMI法' ],
+          [ '/evaluation-decision/success', '9.2. SUCCESs' ],
         ]
       },
     ],
