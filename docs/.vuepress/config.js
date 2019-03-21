@@ -36,8 +36,8 @@ module.exports = {
       {
         title   : '2. 市場分析',
         children: [
-          [ '/marketing/4p', '2.1. 4P' ],
-          [ '/marketing/4c', '2.2. 4C' ],
+          [ '/marketing/4c', '2.1. 4C' ],
+          [ '/marketing/4p', '2.2. 4P' ],
         ]
       },
       {
