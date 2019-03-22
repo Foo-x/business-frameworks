@@ -46,6 +46,7 @@ module.exports = {
         children: [
           [ '/management/abcde', '3.1. ABCDE理論' ],
           [ '/management/vspro', '3.2. VSPRO' ],
+          [ '/management/grow', '3.3. GROWモデル' ],
         ]
       },
       {
