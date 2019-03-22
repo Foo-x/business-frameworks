@@ -38,6 +38,7 @@ module.exports = {
         children: [
           [ '/marketing/4c', '2.1. 4C' ],
           [ '/marketing/4p', '2.2. 4P' ],
+          [ '/marketing/aidma', '2.3. AIDMA' ],
         ]
       },
       {
