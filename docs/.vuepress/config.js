@@ -54,6 +54,7 @@ module.exports = {
         children: [
           [ '/solution/asis-tobe'         , '4.1. As is / To be' ],
           [ '/solution/problem-finding-4p', '4.2. 問題発見の4P' ],
+          [ '/solution/time-machine-method', '4.3. タイムマシン法' ],
         ]
       },
       {
