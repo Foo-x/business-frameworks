@@ -31,6 +31,7 @@ module.exports = {
           [ '/strategy/ppm'     , '1.6. PPM' ],
           [ '/strategy/swot'    , '1.7. SWOT' ],
           [ '/strategy/risk-map', '1.8. リスクマップ' ],
+          [ '/strategy/business-model-canvas', '1.9. ビジネスモデルキャンバス' ],
         ]
       },
       {
