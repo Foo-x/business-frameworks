@@ -78,6 +78,7 @@ module.exports = {
           [ '/organization-idea/5w1h', '7.1. 5W1H' ],
           [ '/organization-idea/raci', '7.2. RACI' ],
           [ '/organization-idea/scamper', '7.3. SCAMPER' ],
+          [ '/organization-idea/rich-picture', '7.4. リッチピクチャー' ],
         ]
       },
       {
