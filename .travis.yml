@@ -3,7 +3,7 @@ node_js:
   - 'node'
   - 'lts/*'
 script:
-  - yarn build
+  - npm run build
 deploy:
   provider: pages
   skip-cleanup: true
