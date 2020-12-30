@@ -80,6 +80,7 @@ module.exports = {
           [ '/organization-idea/scamper', '7.3. SCAMPER' ],
           [ '/organization-idea/rich-picture', '7.4. リッチピクチャー' ],
           [ '/organization-idea/anti-problem', '7.5. アンチプロブレム' ],
+          [ '/organization-idea/brainstorming', '7.6. ブレインストーミング' ],
         ]
       },
       {
