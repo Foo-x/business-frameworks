@@ -79,6 +79,7 @@ module.exports = {
           [ '/organization-idea/raci', '7.2. RACI' ],
           [ '/organization-idea/scamper', '7.3. SCAMPER' ],
           [ '/organization-idea/rich-picture', '7.4. リッチピクチャー' ],
+          [ '/organization-idea/anti-problem', '7.5. アンチプロブレム' ],
         ]
       },
       {
